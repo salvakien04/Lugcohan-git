@@ -74,8 +74,8 @@ function validateOtp() {
 /* Mailbox */
 const inboxEmails = [
   {
-    title: "Welcome to {Rename} Mail",
-    from: "{Rename} Team",
+    title: "Welcome to BotKien Mail",
+    from: "BotKien Team",
     body: "Your secure mailbox is now ready. You can receive workspace updates, system notifications, and team messages."
   },
   {
